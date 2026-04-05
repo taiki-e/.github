@@ -6,4 +6,4 @@ All projects under github.com/taiki-e adhere to the [Rust Code of Conduct].
 
 If you believe someone is violating the code of conduct, we ask that you report it by contacting Taiki Endo at <te316e89@gmail.com>.
 
-[Rust Code of Conduct]: https://www.rust-lang.org/policies/code-of-conduct
+[Rust Code of Conduct]: https://rust-lang.org/policies/code-of-conduct
